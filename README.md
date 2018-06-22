@@ -19,9 +19,11 @@ npm install
 # install this gist-repo-sync package globally
 npm install -g
 
-# sync all subdirectories in directory-name
-gistsync directory-name
+# sync all subdirectories in /Users/you/directory-name
+cd gist-repo-sync
+gistsync /Users/you/directory-name
 
-# update all gists in directory-name
-gistupdate directory-name
+# update all gists in /Users/you/directory-name
+cd gist-repo-sync
+gistupdate /Users/you/directory-name
 ```
