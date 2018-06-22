@@ -1,0 +1,24 @@
+{
+  "name": "gist-repo-sync",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "gistsync": "gistsync.js",
+    "gistupdate": "gistupdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petulla/gist-repo-sync.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petulla/gist-repo-sync/issues"
+  },
+  "homepage": "https://github.com/petulla/gist-repo-sync#readme",
+  "devDependencies": {
+    "gistup": "^0.1.3",
+    "shelljs": "^0.8.2"
+  }
+}
