@@ -1,6 +1,6 @@
 # gist-repo-sync
 
-# Sync multiple gists in a directory
+### Sync multiple gists in a directory
 
 If you have a directory (let's call it `directory-name`) with subfolders, each of those subfolders can be an updateable gist.
 
