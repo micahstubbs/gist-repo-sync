@@ -4,9 +4,9 @@
 
 If you have a directory (let's call it `directory-name`) with subfolders, each of those subfolders can be an updateable gist.
 
-Rather than manually navigating to each subdirectory one at a time and creating gists, you can use gist-repo-sync to create gists for all subdirectories in a directory, at once ✨
+Rather than manually navigating to each subdirectory one at a time and creating gists, you can use **gist-repo-sync** to create gists for all subdirectories in a directory, at once ✨
 
-_gist-repo-sync_ can also update existing gists.
+**gist-repo-sync** can also update existing gists.
 
 ### usage
 
